@@ -90,7 +90,7 @@ TEST(BLACK_05, String_Compare)
 }
 
 // ------------- main -------------
-int main(int argc, char* argv[])
+int main(int argc, char** argv)
 {
 	::testing::InitGoogleTest(&argc, argv);
 

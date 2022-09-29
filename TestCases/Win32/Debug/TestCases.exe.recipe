@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\kanious\Study\06. Configuration &amp; Deployment\Project01_WriteTestCases\Win32\Debug\BlackBox.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\kanious\Study\06. Configuration &amp; Deployment\Project01_WriteTestCases\Win32\Debug\TestCases.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
